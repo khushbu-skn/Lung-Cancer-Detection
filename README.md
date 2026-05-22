@@ -12,7 +12,7 @@ This application aims to early detection of lung cancer to give patients the bes
 
 We have taken 50 patients as a sample dataset for training and validation. Link is available below: 
 
-Sample Dataset Images: (https://github.com/khushbu-skn/Lung-Cancer-Detection/blob/main/imageDataNew-10-10-5.npy
+Sample Dataset Images: (https://github.com/khushbu-skn/Lung-Cancer-Detection/blob/main/imageDataNew-10-10-5.npy)
 
 Sample Dataset CSV for above images: [CSV File](https://github.com/khushbu-skn/Lung-Cancer-Detection/blob/main/stage1_labels.csv)
 
@@ -22,6 +22,6 @@ Sample Dataset CSV for above images: [CSV File](https://github.com/khushbu-skn/L
 
 ## Demo Video
 
-https://user-images.githubusercontent.com/68781375/162584302-e0a58cfe-9a1d-45a1-816e-6bfadf45821a.mp4
+https://github.com/khushbu-skn/Lung-Cancer-Detection/blob/main/162584302-e0a58cfe-9a1d-45a1-816e-6bfadf45821a.mp4
 
 
